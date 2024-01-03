@@ -1,0 +1,6 @@
+D:\HUY\7.NET C SHARP\CAD_API\AutoRout\AutoRout\bin\Debug\AutoRout.dll
+D:\HUY\7.NET C SHARP\CAD_API\AutoRout\AutoRout\bin\Debug\AutoRout.pdb
+D:\HUY\7.NET C SHARP\CAD_API\AutoRout\AutoRout\obj\Debug\AutoRout.csproj.AssemblyReference.cache
+D:\HUY\7.NET C SHARP\CAD_API\AutoRout\AutoRout\obj\Debug\AutoRout.csproj.CoreCompileInputs.cache
+D:\HUY\7.NET C SHARP\CAD_API\AutoRout\AutoRout\obj\Debug\AutoRout.dll
+D:\HUY\7.NET C SHARP\CAD_API\AutoRout\AutoRout\obj\Debug\AutoRout.pdb
