@@ -3,6 +3,6 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
     <StartProgram>C:\Program Files\Autodesk\AutoCAD 2021\acad.exe</StartProgram>
-    <StartArguments>"Template\Template.dwg"</StartArguments>
+    <StartArguments>"D:\4.PERSONAL\5.CODING\20.CAD_Tool\AutoRout\AutoRout\Template\TestLib1.dwg"</StartArguments>
   </PropertyGroup>
 </Project>
